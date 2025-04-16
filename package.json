@@ -1,0 +1,38 @@
+{
+    "name": "@winnerpc/prettier-config",
+    "version": "2025.1.1-rc.1",
+    "description": "A shareable Prettier config.",
+    "type": "module",
+    "main": "./dist/index.js",
+    "module": "./dist/esm/index.js",
+    "types": "./dist/index.d.ts",
+    "scripts": {
+        "build": "tsup"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Winner-pc/prettier-config.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Winner-pc/prettier-config/issues"
+    },
+    "homepage": "https://github.com/Winner-pc/prettier-config#readme",
+    "keywords": [
+        "prettier",
+        "prettierrc",
+        "winner-pc"
+    ],
+    "author": "Winner-pc",
+    "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    },
+    "peerDependencies": {
+        "prettier": ">=3.5.0"
+    },
+    "devDependencies": {
+        "prettier": "3.5.3",
+        "tsup": "^8.4.0",
+        "typescript": "^5.8.3"
+    }
+}
