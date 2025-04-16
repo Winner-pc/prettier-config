@@ -1,10 +1,10 @@
 {
     "name": "@winnerpc/prettier-config",
-    "version": "2025.1.1-rc.1",
+    "version": "2025.1.1-rc.2",
     "description": "A shareable Prettier config.",
     "type": "module",
     "main": "./dist/index.js",
-    "module": "./dist/esm/index.js",
+    "module": "./dist/index.mjs",
     "types": "./dist/index.d.ts",
     "scripts": {
         "build": "tsup"
