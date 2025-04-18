@@ -13,7 +13,6 @@ const config: Config = {
     objectWrap: "preserve",
     bracketSameLine: false,
     arrowParens: "avoid",
-    insertPragma: true,
     endOfLine: "lf",
     embeddedLanguageFormatting: "off",
     singleAttributePerLine: false,

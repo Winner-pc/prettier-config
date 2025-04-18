@@ -1,5 +1,3 @@
-<!-- @format -->
-
 # @winnerpc/prettier-config
 
 A shareable Prettier configuration.
@@ -70,7 +68,6 @@ The default configuration provided by `@winnerpc/prettier-config` is as follows:
     "objectWrap": "preserve",
     "bracketSameLine": false,
     "arrowParens": "avoid",
-    "insertPragma": true,
     "endOfLine": "lf",
     "embeddedLanguageFormatting": "off",
     "singleAttributePerLine": false
