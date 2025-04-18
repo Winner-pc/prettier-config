@@ -5,9 +5,8 @@
     "[typescriptreact]": {
         "editor.defaultFormatter": "dbaeumer.vscode-eslint"
     },
-    "cSpell.words": ["tsup", "winnerpc"],
+    "cSpell.words": ["lintstagedrc", "tsup", "winnerpc"],
     "diffEditor.ignoreTrimWhitespace": false,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "eslint.format.enable": true,

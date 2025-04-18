@@ -10,6 +10,7 @@ pnpm-debug.log*
 
 /node_modules
 /src
+.lintstagedrc.json
 .prettierignore
 .prettierrc.json
 tsconfig.json
@@ -17,6 +18,7 @@ tsup.config.ts
 *.local
 
 # Editor directories and files
+.husky
 .vscode
 .idea
 .DS_Store

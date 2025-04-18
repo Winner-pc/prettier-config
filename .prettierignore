@@ -3,3 +3,6 @@
 # TypeScript files
 *.ts
 *.tsx
+
+# Misc
+pnpm-lock.yaml
