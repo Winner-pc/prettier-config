@@ -18,6 +18,9 @@
     "editor.formatOnSave": true,
     "eslint.format.enable": true,
     "eslint.useFlatConfig": true,
+    "files.associations": {
+        ".prettierignore": "ignore"
+    },
     "files.eol": "\n",
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
