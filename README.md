@@ -35,9 +35,9 @@ To use the shared configuration, add the following to your `.prettierrc` file in
 "@winnerpc/prettier-config"
 ```
 
-This will apply the [default configuration](#-default-configuration) defined in this package to your project.
+This will apply the [default configuration](#default-configuration) defined in this package to your project.
 
-#### 📁 Recommended Project Structure
+#### Recommended Project Structure
 
 Here’s a simple example of how your project structure might look:
 
@@ -50,7 +50,7 @@ my-project/
 └── package.json
 ```
 
-#### 🧩 Default Configuration
+#### Default Configuration
 
 The default configuration provided by `@winnerpc/prettier-config` is as follows:
 
