@@ -19,8 +19,8 @@ pnpm-debug.log*
 .idea
 .DS_Store
 
-.lintstagedrc.json
+.lintstagedrc*
 .prettierignore
-.prettierrc.json
+.prettierrc*
 tsconfig.json
 tsup.config.ts
