@@ -2,8 +2,8 @@
     "name": "@winnerpc/prettier-config",
     "version": "2025.1.1",
     "description": "A shareable Prettier config.",
+    "type": "module",
     "main": "./dist/index.js",
-    "module": "./dist/index.mjs",
     "types": "./dist/index.d.ts",
     "scripts": {
         "build": "tsup",
