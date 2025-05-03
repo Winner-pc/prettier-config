@@ -1,6 +1,6 @@
 {
     "name": "@winnerpc/prettier-config",
-    "version": "2025.2.2",
+    "version": "2025.2.3-rc.1",
     "description": "A shareable Prettier config.",
     "type": "module",
     "main": "./dist/index.js",
