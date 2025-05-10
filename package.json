@@ -1,6 +1,6 @@
 {
     "name": "@winnerpc/prettier-config",
-    "version": "2025.2.4",
+    "version": "2025.3.1-rc.1",
     "description": "A shareable Prettier config.",
     "type": "module",
     "main": "./dist/index.js",
@@ -33,7 +33,7 @@
     },
     "devDependencies": {
         "husky": "^9.1.7",
-        "lint-staged": "^15.5.2",
+        "lint-staged": "^16.0.0",
         "prettier": "3.5.3",
         "tsup": "^8.4.0",
         "typescript": "~5.8.3"
