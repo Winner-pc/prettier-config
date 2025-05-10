@@ -104,6 +104,28 @@ In this example, we import the shared configuration and then override the `semi`
 
 ---
 
+## 👍 Useful Scripts
+
+Add these scripts to your `package.json` for easier usage:
+
+```json
+{
+    "scripts": {
+        "format": "prettier --write ."
+    }
+}
+```
+
+Format the entire project using Prettier:
+
+```bash
+npm run format
+```
+
+Each command above can be run in the terminal from the root of your project. These scripts help automate repetitive tasks and ensure consistency across your codebase.
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you have ideas, improvements, or run into any issues, feel free to open an [issue](https://github.com/Winner-pc/prettier-config/issues).
