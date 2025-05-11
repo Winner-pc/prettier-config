@@ -39,7 +39,7 @@ This will apply the [default configuration](#default-configuration) defined in t
 
 #### Recommended Project Structure
 
-Here’s a simple example of how your project structure might look:
+Here's a simple example of how your project structure might look:
 
 ```
 my-project/
@@ -120,6 +120,10 @@ Format the entire project using Prettier:
 
 ```bash
 npm run format
+# or
+yarn format
+# or
+pnpm format
 ```
 
 Each command above can be run in the terminal from the root of your project. These scripts help automate repetitive tasks and ensure consistency across your codebase.
