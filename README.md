@@ -120,9 +120,9 @@ Format the entire project using Prettier:
 
 ```bash
 npm run format
-# or
+# Or Yarn
 yarn format
-# or
+# Or pnpm
 pnpm format
 ```
 
